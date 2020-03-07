@@ -1,0 +1,24 @@
+{
+  "name": "firstcontainer",
+  "version": "1.0.0",
+  "description": "My first container",
+  "main": "test.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ediemerson-br/firstcontainer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ediemerson-br/firstcontainer/issues"
+  },
+  "homepage": "https://github.com/ediemerson-br/firstcontainer#readme"
+}
